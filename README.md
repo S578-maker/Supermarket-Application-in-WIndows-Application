@@ -1,1 +1,1 @@
-# Supermarket-Application-in-WIndows-Application
+# Supermarket-Application-in-Windows-Application
