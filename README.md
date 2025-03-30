@@ -1,4 +1,4 @@
-# OnlineJobPortal
+# Supermarket Management System
 
 ### Project Overview:
   Title: Supermarket Management System
@@ -33,3 +33,5 @@ Features: Product Management, Inventory Tracking, Billing, Sales Reporting
 ![Image](https://github.com/user-attachments/assets/fa18fafc-6915-4f86-a3d1-5ab87ae81e27)
 
 ![Image](https://github.com/user-attachments/assets/c41837ef-1ec7-46c2-bedd-ef6d6270464c)
+
+
