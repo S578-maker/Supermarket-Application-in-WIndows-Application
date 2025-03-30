@@ -16,3 +16,4 @@ Reporting: RDLC Reports
 Architecture: N-Tier (UI Layer, Business Layer, Data Layer)
 
 Features: Product Management, Inventory Tracking, Billing, Sales Reporting
+### Screenshots:
